@@ -191,11 +191,9 @@ Sales-Target-Performance-Dashboard/
 
 ## 📸 Dashboard Preview
 
-Add your dashboard screenshot to the `screenshots` folder and use:
 
-```markdown
 ![Sales_Target_Performance_Dashboard](screenshots/dashboard.png)
-```
+
 
 ---
 
