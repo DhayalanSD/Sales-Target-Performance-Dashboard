@@ -194,7 +194,7 @@ Sales-Target-Performance-Dashboard/
 Add your dashboard screenshot to the `screenshots` folder and use:
 
 ```markdown
-![Sales & Target Performance Dashboard](screenshots/dashboard.png)
+![Sales_Target_Performance_Dashboard](screenshots/dashboard.png)
 ```
 
 ---
